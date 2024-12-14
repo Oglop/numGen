@@ -1,0 +1,15 @@
+{
+  "name": "numbergenerator",
+  "version": "1.0.0",
+  "description": "generate number string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Stefan Gustavsson",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
